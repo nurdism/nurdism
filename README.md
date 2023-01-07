@@ -9,11 +9,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### 👩‍💻 I'm working on <a href = "https://closem.ai/">closem</a>!
+### 👩‍💻 CTO of <a href = "https://closem.ai/">closem</a>!
 
 ### ⚡ Technologies
 - Front-end development using Typescript, Vue, CSS, SASS, Tailwind, Bulma
-- Backend development using Typescript, GraphQL, PostgreSQL & Go
+- Backend development using Typescript, GraphQL, PostgreSQL, PHP/Laravel & Go
 - Deployement using Docker
 
 Languages I use: <br>
@@ -23,12 +23,13 @@ Languages I use: <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-141414?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
-![C Sharp](https://img.shields.io/badge/-GraphQL-141414?style=flat&logo=graphql)
-![Go](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
+![GraphQL](https://img.shields.io/badge/-GraphQL-141414?style=flat&logo=graphql)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
 ![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 ![Lua](https://img.shields.io/badge/-Lua-141414?style=flat&logo=lua)
 ![Sass](https://img.shields.io/badge/-Sass-141414?style=flat&logo=sass)
+![Php](https://img.shields.io/badge/-Php-141414?style=flat&logo=php)
 
 Tools & technologies I have worked with: <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
@@ -44,8 +45,8 @@ Tools & technologies I have worked with: <br>
 ![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
-![Git](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
+![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
 ![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-141414?style=flat&logo=bitbucket)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-141414?style=flat&logo=gitlab)
@@ -53,6 +54,8 @@ Tools & technologies I have worked with: <br>
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-141414?style=flat&logo=github-actions)
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141414?style=flat&logo=adobe-photoshop)
+![Laravel](https://img.shields.io/badge/-Laravel-141414?style=flat&logo=laravel)
+![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)
 
 Some of my favorite open source projects: <br>
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-141414?style=flat&logo=dark-reader)](https://github.com/darkreader/darkreader)
@@ -65,22 +68,20 @@ Some of my favorite open source projects: <br>
 - Hardware Emulaton
 - C/C++
 - Rust
-- Ruby
 
 ### 💻 Projects
 - <a href = "https://github.com/nurdism/neko">n.eko</a> A self hosted virtual browser (rabb.it clone) that runs in docker.
 - <a href = "https://github.com/nurdism/battleye">battleye</a> Battleye rcon client built in nodejs.
 
-### 💡 Goals for 2022
-- Release 5+ FOSS projects 
+### 💡 Goals for 2023
+- Contribute to 5+ FOSS projects 
 - Explore lower level languages
-- Build a Ben Eater computer
-- Learn CentOS
+- Create circut some scuptures
 
 ### 🌴 Fun facts
 - I play sandbox games
 - I love to mod games
 
 ### ☕ Get in touch
-- Email: <a href="mailto:nurdism.io@gmail.com">nurdism.io@gmail.com</a>
+- Email: <a href="mailto:me@nurdism.dev">me@nurdism.dev</a>
 - Website: <a href="https://nurdism.dev/">nurdism.dev</a>
