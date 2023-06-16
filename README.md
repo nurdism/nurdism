@@ -9,8 +9,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### 👩‍💻 CTO of <a href = "https://closem.ai/">closem</a>!
-
 ### ⚡ Technologies
 - Front-end development using Typescript, Vue, CSS, SASS, Tailwind, Bulma
 - Backend development using Typescript, GraphQL, PostgreSQL, PHP/Laravel & Go
