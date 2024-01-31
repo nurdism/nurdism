@@ -71,10 +71,10 @@ Some of my favorite open source projects: <br>
 - <a href = "https://github.com/nurdism/neko">n.eko</a> A self hosted virtual browser (rabb.it clone) that runs in docker.
 - <a href = "https://github.com/nurdism/battleye">battleye</a> Battleye rcon client built in nodejs.
 
-### 💡 Goals for 2023
+### 💡 Goals for 2024
 - Contribute to 5+ FOSS projects 
 - Explore lower level languages
-- Create circut some scuptures
+- [Create some cool circut sculptures](https://twitter.com/MohitBhoite)
 
 ### 🌴 Fun facts
 - I play sandbox games
