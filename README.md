@@ -68,6 +68,7 @@ Some of my favorite open source projects: <br>
 - Rust
 
 ### 💻 Projects
+- <a href = "https://ticketeer.bot/">Ticketeer</a> A ticket support bot for Discord, built with Laravel & Vue.
 - <a href = "https://github.com/nurdism/neko">n.eko</a> A self hosted virtual browser (rabb.it clone) that runs in docker.
 - <a href = "https://github.com/nurdism/battleye">battleye</a> Battleye rcon client built in nodejs.
 
