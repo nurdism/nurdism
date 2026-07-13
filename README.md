@@ -8,12 +8,11 @@
   <a href="https://github.com/nurdism/"><img src="https://img.shields.io/github/followers/nurdism?color=FFB000&label=followers" alt="GitHub followers"/></a>
 </p>
 
-I'm Craig. I dropped out of high school to learn to code, and twenty-some years later the range runs
+I'm Craig. I dropped out to learn to code, and twenty-some years later the range runs
 from web apps and chain infrastructure to Docker fleets, ESP32 firmware, and 3D-printed battle bots.
 Self-taught the whole way. Hard worker, fast learner: a new stack is usually a weekend.
 
 **Currently open for work**: full-stack product, platform and infrastructure, or embedded.
-The full story, verified numbers, and a contact form live at **[nurdism.dev](https://nurdism.dev/)**.
 
 ### The short version
 
@@ -151,5 +150,5 @@ Learning pottery. Cat dad to Moe, the best bud a nerd could ask for. The neko ca
   <a href="mailto:me@nurdism.dev"><img src="https://img.shields.io/badge/email-me@nurdism.dev-141414?style=flat&logo=gmail" alt="Email"/></a>
   <a href="https://nurdism.dev/#contact"><img src="https://img.shields.io/badge/contact%20form-nurdism.dev-141414?style=flat&logo=firefox&logoColor=FFB000" alt="Contact form"/></a>
   <a href="https://www.linkedin.com/in/craig-betterly/"><img src="https://img.shields.io/badge/linkedin-craig--betterly-141414?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitch.tv/nurdism"><img src="https://img.shields.io/badge/twitch-nurdism-141414?style=flat&logo=twitch" alt="Twitch"/></a>
+  <a href="https://x.com/nurdisms"><img src="https://img.shields.io/badge/x-%40nurdisms-141414?style=flat&logo=x" alt="X"/></a>
 </p>
