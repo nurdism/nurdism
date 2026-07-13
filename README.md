@@ -149,7 +149,7 @@ Learning pottery. Cat dad to Moe, the best bud a nerd could ask for. The neko ca
 
 <p>
   <a href="mailto:me@nurdism.dev"><img src="https://img.shields.io/badge/email-me@nurdism.dev-141414?style=flat&logo=gmail" alt="Email"/></a>
-  <a href="https://nurdism.dev/#contact"><img src="https://img.shields.io/badge/contact%20form-lands%20in%20my%20Discord-141414?style=flat&logo=discord" alt="Contact form"/></a>
+  <a href="https://nurdism.dev/#contact"><img src="https://img.shields.io/badge/contact%20form-nurdism.dev-141414?style=flat&logo=firefox&logoColor=FFB000" alt="Contact form"/></a>
   <a href="https://www.linkedin.com/in/craig-betterly/"><img src="https://img.shields.io/badge/linkedin-craig--betterly-141414?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://twitch.tv/nurdism"><img src="https://img.shields.io/badge/twitch-nurdism-141414?style=flat&logo=twitch" alt="Twitch"/></a>
 </p>
